@@ -1,0 +1,85 @@
+main .conteudo-principal{
+    margin: 0 auto;
+    max-width: 1500px;
+}
+
+.header-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.logo-check{
+    width: 1rem;
+    margin-top: 3.688rem;
+    margin-right: 8rem;
+}
+
+.bag-count{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.check-list2 img, .alert img{
+    margin-left: 7.25rem;
+    margin-top: 7rem;
+    width: 8rem;
+
+}
+
+.input-check{
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+    flex-wrap: wrap;
+}
+.input-box{
+width: 15rem;
+}
+
+.button-orders button {
+    width: 100%;
+    padding: 0.62rem;
+    background-color: black;
+    cursor: pointer;
+    transition: 0.5s;
+    margin-top: 3rem;
+}
+
+.button-orders a {
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    transition: 0.5s;
+}
+
+.button-orders button:hover{
+    background-color: #FFD3D3;
+    border: none;
+
+}
+
+.input-box h6{ 
+margin-top: 2rem;
+}
+
+.count-check{
+    display: flex;
+    justify-content: flex-start;
+    gap: 2rem;
+    margin-top: 3rem;
+    margin-left: -4rem;
+}
+
+@media screen and(max-width:750px){
+    .logo img{
+        display: none;
+    }
+}
+
+@media screen and (max-width:767px){
+    .logo img{
+        display: none;
+    }
+
+}
