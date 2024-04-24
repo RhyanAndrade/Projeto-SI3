@@ -37,6 +37,11 @@ section {
     padding-right: 5rem;
 } */
 
-.logo-check img{
+/* .logo-check img{
     width:200px;
+} */
+
+main .conteudo-principal{
+    margin: 0 auto;
+    max-width: 1500px;
 }
