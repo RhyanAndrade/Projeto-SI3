@@ -30,7 +30,7 @@ main .conteudo-principal{
 .input-check{
     display: flex;
     justify-content: center;
-    gap: 10rem;
+    gap: 1rem;
     flex-wrap: wrap;
 }
 .input-box{

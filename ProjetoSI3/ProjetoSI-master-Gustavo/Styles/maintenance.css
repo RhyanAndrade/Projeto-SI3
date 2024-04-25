@@ -1,0 +1,20 @@
+.input-box3 input {
+    margin: 1.6rem;
+    padding: 0.8rem 1.2rem;
+    border: none;
+    box-shadow: 1px 1px 6px #0000001c;
+    max-width: 15rem;
+    width: 25%;
+}
+
+.count-check2{
+        display: flex;
+        gap: 2rem;
+        margin-top: 3rem;
+        justify-content: center;
+        /* margin-left: -4rem; */
+    }
+
+.hand img{
+    margin-right: 0rem;
+}
