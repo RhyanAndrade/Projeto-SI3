@@ -10,7 +10,7 @@
 .count-check2{
         display: flex;
         gap: 2rem;
-        margin-top: 3rem;
+        margin: 1rem;
         justify-content: center;
         /* margin-left: -4rem; */
     }
